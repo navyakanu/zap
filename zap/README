@@ -1,0 +1,5 @@
+1.Start Zap in daemon mode :
+/Applications/OWASP\ ZAP.app/Contents/Java/zap.sh -daemon -newsession session
+
+2.Configure your tests to run with selenium proxy driver on the port zap is listening to
+
